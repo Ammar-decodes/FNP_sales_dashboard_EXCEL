@@ -2,7 +2,7 @@
 ## Project Overview
 This project analyzes sales data for Ferns and Petals (FNP) using Excel, Power Query, and Pivot Tables. It focuses on occasion-based gifting trends (Diwali, Raksha Bandhan, Birthdays, etc.) to derive actionable insights without external BI tools.
 
-Dahsboard LINK : - <a href="https://docs.google.com/spreadsheets/d/1CAB1FLwKmGEsEbcPz_SiCyU9vSj74hjx/edit?usp=drive_link&ouid=113969359282499213777&rtpof=true&sd=true">FNP</a>
+FNP Sale Analysis file LINK : - <a href="https://github.com/Ammar-decodes/FNP_sales_dashboard_EXCEL/blob/main/FNP%20sales%20dashboard.xlsx">Fearns&Petals</a>
 #### Key Business Questions Addressed
 Revenue Analysis: Total revenue and occasion-wise breakdown.
 
